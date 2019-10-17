@@ -187,6 +187,10 @@ https://medium.com/@hmtarhan/unity-firebase-remote-config-kullanımı-269c0285a2
 * [Programiz Python](https://www.programiz.com/python-programming)
 * [Pythonguru Python](https://thepythonguru.com)
 
+# GITHUB OR GIT
+* [GitHub ile açık kaynak projelere katkıda bulunmak](https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546)
+* [Git ve GitHub nasıl kullanılır](https://medium.com/@emrullahluleci/git-ve-github-nas-l-kullan-l-r-7d3cc886b77e)
+
 # A lightning-fast interactive design tool.
 https://www.framer.com/
 
