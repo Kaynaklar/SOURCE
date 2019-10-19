@@ -191,6 +191,30 @@ https://medium.com/@hmtarhan/unity-firebase-remote-config-kullanımı-269c0285a2
 * [GitHub ile açık kaynak projelere katkıda bulunmak](https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546)
 * [Git ve GitHub nasıl kullanılır](https://medium.com/@emrullahluleci/git-ve-github-nas-l-kullan-l-r-7d3cc886b77e)
 
+# Git_Kaynaklar
+http://ahmetertem.com.tr/git-temel-komutlar-kullanimlar/
+
+https://medium.com/@odayibasi/git-komutlar%C4%B1-ve-kullan%C4%B1m%C4%B1-51ec0c07a434
+
+https://www.hostinger.web.tr/rehberler/github-kullanimi-basit-git-komutlari
+
+https://kod5.org/baslica-git-komutlari/
+
+https://yazilimportal.com/git-komutlari-ve-ileri-kullanim-9198fbeef777
+
+http://www.kernel.org/pub/software/scm/git/docs/
+
+http://git-scm.com/book
+
+https://github.com/marmara/Culture/blob/master/Git%20Komutlari
+
+http://tasarlamag.com/git-komutlari/
+
+https://ceaksan.com/tr/git-komutlari/
+
+http://kadirkasim.com/yazi/git-komutlari
+
+
 # SQL SERVER
 * [Sql Cheat Sheet](http://www.sqltutorial.org/sql-cheat-sheet/)
 * [W3 School](https://www.w3schools.com/sql/)
