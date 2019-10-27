@@ -191,7 +191,6 @@ https://medium.com/@hmtarhan/unity-firebase-remote-config-kullanımı-269c0285a2
 * [GitHub ile açık kaynak projelere katkıda bulunmak](https://medium.com/@cengizhanc/github-ile-a%C3%A7%C4%B1k-kaynak-projelere-katk%C4%B1da-bulunmak-8a0d79090546)
 * [Git ve GitHub nasıl kullanılır](https://medium.com/@emrullahluleci/git-ve-github-nas-l-kullan-l-r-7d3cc886b77e)
 
-# Git_Kaynaklar
 http://ahmetertem.com.tr/git-temel-komutlar-kullanimlar/
 
 https://medium.com/@odayibasi/git-komutlar%C4%B1-ve-kullan%C4%B1m%C4%B1-51ec0c07a434
@@ -213,6 +212,8 @@ http://tasarlamag.com/git-komutlari/
 https://ceaksan.com/tr/git-komutlari/
 
 http://kadirkasim.com/yazi/git-komutlari
+
+//http://www.yazilimcilardunyasi.com/2017/04/github-kodlar-github-kullanm.html
 
 
 # SQL SERVER
