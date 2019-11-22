@@ -83,6 +83,7 @@
 * [Open Game Art Entry "simple-ui"](http://opengameart.org/content/simple-ui)
 * [Open Game Art Entry "95-game-icons"](http://opengameart.org/content/95-game-icons)
 * [Daniel Solis: CC Icons](https://www.patreon.com/danielsolis?ty=c)
+* [Free Icons](http://graphicdesignjunction.com/2015/05/free-outline-icons/)
 
 # Music
 
